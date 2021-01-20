@@ -7,7 +7,7 @@ doNotCompress:
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
-  renameManifestPackage: null
+  renameManifestPackage: simtool
 sdkInfo:
   minSdkVersion: '15'
   targetSdkVersion: '23'
@@ -16,7 +16,7 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: null
+  tag: sim
 version: 2.1.0
 versionInfo:
   versionCode: '18971686'
