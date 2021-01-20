@@ -1,23 +1,23 @@
 !!brut.androlib.meta.MetaInfo
 apkFileName: fb.apk
 compressionType: false
-doNotCompress:
+doNotCompress:true
 - FBSIG
 - xzs
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
-  renameManifestPackage: null
-sdkInfo:
+  renameManifestPackage: simtool
+sdkInfo:'12848000'
   minSdkVersion: '15'
   targetSdkVersion: '23'
 sharedLibrary: false
-unknownFiles: {}
+unknownFiles: {none}
 usesFramework:
   ids:
   - 1
-  tag: null
+  tag: sim
 version: 2.1.0
 versionInfo:
-  versionCode: '18971686'
-  versionName: 58.0.0.28.70
+  versionCode: '12848000'
+  versionName: '74.0.3729.136'
